@@ -48,3 +48,5 @@
 
 Для кажного клієнта  визначити загальну кількість  місяців протягом яких він відвідував заняття
 
+### Test Coverage
+![alt text](https://drive.google.com/file/d/1_ZVdw53ZSeVCrO4cM5EOK4RagA9WAH48/view?usp=sharing)
