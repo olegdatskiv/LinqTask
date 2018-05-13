@@ -1,0 +1,9 @@
+D:\game c#\Linq\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\game c#\Linq\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\game c#\Linq\UnitTestProject\bin\Debug\Linq.exe
+D:\game c#\Linq\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\game c#\Linq\UnitTestProject\bin\Debug\Linq.pdb
+D:\game c#\Linq\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\game c#\Linq\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\game c#\Linq\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\game c#\Linq\UnitTestProject\obj\Debug\UnitTestProject.pdb

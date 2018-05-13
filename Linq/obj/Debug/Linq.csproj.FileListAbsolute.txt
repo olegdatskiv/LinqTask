@@ -1,0 +1,5 @@
+D:\game c#\Linq\Linq\bin\Debug\Linq.exe.config
+D:\game c#\Linq\Linq\bin\Debug\Linq.exe
+D:\game c#\Linq\Linq\bin\Debug\Linq.pdb
+D:\game c#\Linq\Linq\obj\Debug\Linq.exe
+D:\game c#\Linq\Linq\obj\Debug\Linq.pdb
